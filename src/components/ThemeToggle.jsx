@@ -1,33 +1,4 @@
-// import { useEffect, useState } from "react";
-// import { FaMoon, FaSun } from "react-icons/fa";
 
-// export default function ThemeToggle() {
-//   const [isDark, setIsDark] = useState(
-//     () =>
-//       localStorage.theme === "dark" ||
-//       (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)
-//   );
-
-//   useEffect(() => {
-//     if (isDark) {
-//       document.documentElement.classList.add("dark");
-//       localStorage.theme = "dark";
-//     } else {
-//       document.documentElement.classList.remove("dark");
-//       localStorage.theme = "light";
-//     }
-//   }, [isDark]);
-
-//   return (
-//     <button
-//       onClick={() => setIsDark(!isDark)}
-//       className="text-xl p-2 rounded transition transform hover:scale-110 hover:bg-gray-300 dark:hover:bg-gray-700"
-//       aria-label="Toggle Theme"
-//     >
-//       {isDark ? <FaSun /> : <FaMoon />}
-//     </button>
-//   );
-// }
 import { useEffect, useState } from "react";
 import { FaMoon, FaSun } from "react-icons/fa";
 

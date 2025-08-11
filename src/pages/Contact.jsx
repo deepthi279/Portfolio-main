@@ -30,7 +30,7 @@ export default function Contact() {
             {
               icon: <FaGithub />,
               href: "https://github.com/deepthi279",
-              label: "github.com/your-github"
+              label: "github.com/deepthi279"
             },
             {
               icon: <FaLinkedin />,

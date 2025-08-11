@@ -1,25 +1,4 @@
-// import ThemeToggle from "./ThemeToggle";
 
-// export default function Navbar() {
-//   return (
-//     <nav className="fixed top-0 left-0 w-full z-50 flex justify-between items-center px-6 py-4 bg-gray-100 dark:bg-gray-900 dark:text-white shadow">
-//       <h1 className="font-bold text-lg text-purple-600">Deepthi Salunkey</h1>
-//       <div className="flex items-center space-x-4">
-//         <ul className="hidden md:flex space-x-4">
-//           <li><a href="#home" className="hover:underline">Home</a></li>
-//           <li><a href="#about" className="hover:underline">About</a></li>
-//           <li><a href="#skills" className="hover:underline">Skills</a></li>
-//           <li><a href="#projects" className="hover:underline">Projects</a></li>
-//           <li><a href="#experience" className="hover:underline">Experience</a></li>
-//           <li><a href="#education" className="hover:underline">Education</a></li>
-//           <li><a href="#certifications" className="hover:underline">Certifications</a></li>
-//           <li><a href="#contact" className="hover:underline">Contact</a></li>
-//         </ul>
-//         <ThemeToggle />
-//       </div>
-//     </nav>
-//   );
-// }
 import ThemeToggle from "./ThemeToggle";
 
 export default function Navbar() {
