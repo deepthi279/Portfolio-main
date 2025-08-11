@@ -115,7 +115,7 @@ export default function Contact() {
             },
             {
               icon: <FaGithub />,
-              href: "https://github.com/your-github",
+              href: "hhttps://github.com/deepthi279",
               label: "github.com/your-github"
             },
             {
