@@ -139,7 +139,7 @@ export default function Contact() {
                 label: "deepthisalunkey996@gmail.com",
               },
               {
-                href: "https://github.com/your-github",
+                href: "https://github.com/deepthi279",
                 icon: <FaGithub />,
                 label: "github.com/your-github",
               },
