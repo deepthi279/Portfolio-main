@@ -306,7 +306,7 @@ export default function Home() {
             }}
           >
             Deepthi Salunkey
-            hi          </h1>
+                </h1>
         </div>
 
         {/* Typewriter Subtitle */}

@@ -106,7 +106,7 @@ export default function Experience() {
     },
     {
       role: "Frontend Developer",
-      company: "Spectra IT Solutions",
+      company: "Isys Technologies",
       period: "Jan 2020 – Nov 2022",
       description: [
         "Delivered mobile-responsive designs.",
